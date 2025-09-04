@@ -1,0 +1,3 @@
+/Users/gretcanstefan/Desktop/SDA/liste/cmake-build-debug/CMakeFiles/liste.dir
+/Users/gretcanstefan/Desktop/SDA/liste/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gretcanstefan/Desktop/SDA/liste/cmake-build-debug/CMakeFiles/rebuild_cache.dir
